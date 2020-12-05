@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm suryadevsingh</h1>
 <h3 align="center">A passionate App developer , Love to explore new technologies </h3>
 
-<!--
+
 **suryadevsingh/suryadevsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **My self**
+- 🌱 I’m currently learning **Android/Ios/Golang**
+- 👯 I’m looking to collaborate with **Good team and mentor**
+- 🤔 I’m looking for **trainee role/intern/job opportunities for long term relationship**
+- 💬 Ask me about **Flutter**,**Tech**, **What are you learning currently** ,**astrology**
+- 📫 How to reach me: **suryadevsingh24032000@gmail.com**
+- 😄 NickName: **Chiki**
+- ⚡ Fun fact: **coffee**
 
 
 
