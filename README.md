@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **My self**
 - 🌱 I’m currently learning **Android / Ios / Golang**
 - 👯 I’m looking to collaborate with **Good team and mentor**
-- 🤔 I’m looking for **trainee role / intern / job opportunities for long term relationship**
+- 🤔 I’m looking for **trainee role  / job opportunities for long term relationship**
 - 💬 Ask me about **Flutter**,**Tech**, **What are you learning currently** ,**astrology**
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
 - 😄 NickName: **Chiki**
