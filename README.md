@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Software Engineer intern at Surya Software Systems Private Limited**
 - 🌱 I’m currently learning **Android / Ios / Golang**
 - 👯 I’m looking to collaborate with **Good team and mentor**
-<!-- - 🤔 I’m looking for **trainee role  / job opportunities for long term relationship** -->
 - 💬 Ask me about **Flutter**,**Tech**, **What are you learning currently** ,**astrology**
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
 - 😄 NickName: **Chiki**
@@ -20,3 +19,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/suryadevsingh">
  <img align="center" img width="48%" src="https://github-readme-stats.vercel.app/api?username=suryadevsingh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a>
+
+
+<!-- - 🤔 I’m looking for **trainee role  / job opportunities for long term relationship** -->
