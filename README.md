@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **SOftware Engineer intern at Surya Software Systems Private Limited**
+- 🔭 I’m currently working on **Software Engineer intern at Surya Software Systems Private Limited**
 - 🌱 I’m currently learning **Android / Ios / Golang**
 - 👯 I’m looking to collaborate with **Good team and mentor**
 <!-- - 🤔 I’m looking for **trainee role  / job opportunities for long term relationship** -->
