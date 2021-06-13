@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm suryadevsingh</h1>
 <h3 align="center">A passionate App developer , Love to explore new technologies </h3>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Software Engineer intern at Surya Software Systems Private Limited**
 - 🌱 I’m currently learning **Android / Ios / Golang**
