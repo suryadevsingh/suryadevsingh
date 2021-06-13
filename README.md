@@ -2,9 +2,8 @@
 <h3 align="center">A passionate App developer , Love to explore new technologies </h3>
 
 
-- 🔭 I’m currently working on **Software Engineer intern at Surya Software Systems Private Limited**
+- 🔭 I’m currently working as **Software Engineer intern at Surya Software Systems Private Limited.**
 - 🌱 I’m currently learning **Android / Ios / Golang / JavaScript / ReactJs**
-- 👯 I’m looking to collaborate with **Good team and mentor**
 - 💬 Ask me about **Flutter**,**Tech**, **What are you learning currently** ,**astrology**
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
 - 😄 NickName: **Chiki**
@@ -21,3 +20,4 @@
 
 
 <!-- - 🤔 I’m looking for **trainee role  / job opportunities for long term relationship** -->
+<!-- - 👯 I’m looking to collaborate with **Good team and mentor** -->
