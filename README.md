@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **Software Engineer intern at Surya Software Systems Private Limited**
-- 🌱 I’m currently learning **Android / Ios / Golang**
+- 🌱 I’m currently learning **Android / Ios / Golang / JavaScript / ReactJs**
 - 👯 I’m looking to collaborate with **Good team and mentor**
 - 💬 Ask me about **Flutter**,**Tech**, **What are you learning currently** ,**astrology**
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
