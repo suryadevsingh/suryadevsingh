@@ -45,5 +45,22 @@
     </a>
 </p>
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/suryadevsingh/github-readme-stats"><img alt="suryadevsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=suryadevsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/suryadevsingh/github-readme-stats"><img alt="suryadevsingh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadevsingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/suryadevsingh/github-readme-activity-graph"><img alt="suryadevsingh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suryadevsingh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 <!-- - 🤔 I’m looking for **trainee role  / job opportunities for long term relationship** -->
 <!-- - 👯 I’m looking to collaborate with **Good team and mentor** -->
