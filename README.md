@@ -43,6 +43,8 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/surya-dev-singh-1887b9169/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://suryadevsingh24032000.medium.com/"><img src="https://icons8.com/icon/110611/medium-monogram"/></a>
+
 </p>
 
 ## ❤ Views and Followers
