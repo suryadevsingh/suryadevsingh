@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working as **Software Engineer intern at Surya Software Systems Private Limited.**
-- 🌱 I’m currently learning **Android / Ios / Golang / JavaScript / ReactJs**
+- 🌱 I’m currently learning **Angular**
 - 💬 Ask me about **Flutter**,**Tech**, **What are you learning currently** ,**astrology**
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
 - 😄 NickName: **Chiki**
