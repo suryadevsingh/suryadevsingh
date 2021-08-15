@@ -53,5 +53,16 @@
 <br/>
 <br/>
 
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/surya-dev-singh-1887b9169/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=suryadevsingh">
+</a>
+<a href="https://github.com/suryadevsingh?tab=followers"><img src="https://img.shields.io/github/followers/suryadevsingh?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <!-- - 🤔 I’m looking for **trainee role  / job opportunities for long term relationship** -->
 <!-- - 👯 I’m looking to collaborate with **Good team and mentor** -->
