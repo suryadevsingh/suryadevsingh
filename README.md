@@ -11,15 +11,6 @@
 - 😄 NickName: **Chiki**
 - ⚡ Fun fact: **coffee**
 
-
-
-<a href="https://github.com/suryadevsingh">
-  <img align="center"img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadevsingh&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/suryadevsingh">
- <img align="center" img width="48%" src="https://github-readme-stats.vercel.app/api?username=suryadevsingh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-</a>
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
