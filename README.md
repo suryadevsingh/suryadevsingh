@@ -4,9 +4,10 @@
 <h3 align="center">A passionate App developer , Love to explore new technologies </h3>
 
 
-- 🔭 I’m currently working as **Software Engineer intern at Surya Software Systems Private Limited.**
-- 🌱 I’m currently learning **Angular**
-- 💬 Ask me about **Flutter**,**Tech**, **What are you learning currently** ,**astrology**
+<!-- - 🔭 I’m currently working as **Software Engineer intern at Surya Software Systems Private Limited.** -->
+- 🤔 I’m looking for **full time role** 
+- 🌱 I’m currently learning **Reactjs**
+- 💬 Ask me about **Flutter**,**Reactjs**,**Tech**, **What are you learning currently** ,**astrology**
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
 - 😄 NickName: **Chiki**
 - ⚡ Fun fact: **coffee**
