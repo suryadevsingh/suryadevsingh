@@ -6,8 +6,8 @@
 
 <!-- - 🔭 I’m currently working as **Software Engineer intern at Surya Software Systems Private Limited.** -->
 - 🤔 I’m looking for **full time role** 
-- 🌱 I’m currently learning **Reactjs**
-- 💬 Ask me about **Flutter**,**Reactjs**,**Tech**, **What are you learning currently** ,**astrology**
+<!-- - 🌱 I’m currently learning **Reactjs** -->
+- 💬 Ask me about **Flutter**,**Reactjs**,**Tech**, **What are you learning currently**.
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
 - 😄 NickName: **Chiki**
 - ⚡ Fun fact: **coffee**
