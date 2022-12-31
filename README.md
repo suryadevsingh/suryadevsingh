@@ -3,10 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm suryadevsingh</h1>
 <h3 align="center">A passionate App developer , Love to explore new technologies </h3>
 
-
+<!-- - 🌱 I’m currently learning **Reactjs** -->
 <!-- - 🔭 I’m currently working as **Software Engineer intern at Surya Software Systems Private Limited.** -->
 - 🤔 I’m looking for **full time role** 
-<!-- - 🌱 I’m currently learning **Reactjs** -->
 - 💬 Ask me about **Flutter**,**Reactjs**,**Tech**, **What are you learning currently**.
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
 - 😄 NickName: **Chiki**
