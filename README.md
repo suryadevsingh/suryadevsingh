@@ -85,14 +85,13 @@
     <a href="https://github.com/suryadevsingh/github-readme-stats"><img alt="suryadevsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=suryadevsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/suryadevsingh/github-readme-stats"><img alt="suryadevsingh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadevsingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
 
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/surya-dev-singh-1887b9169/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://suryadevsingh24032000.medium.com/"><img src="https://img.icons8.com/color/medium-monogram"/></a>
+<a href = "https://suryadevsingh24032000.medium.com/"><img src="https://img.icons8.com/color/medium-monogram" width="45" height="50"/></a>
+<a href = "https://leetcode.com/suryadevsingh24032000/"><img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" width="45" height="50"/></a>
+
 
 </p>
 
