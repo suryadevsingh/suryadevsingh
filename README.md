@@ -75,19 +75,15 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-<p align="center">
-    <a href="https://github.com/suryadevsingh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suryadevsingh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadevsingh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-
-
-
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/suryadevsingh/github-readme-stats"><img alt="suryadevsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=suryadevsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/suryadevsingh/github-readme-stats"><img alt="suryadevsingh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadevsingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/suryadevsingh/github-readme-stats"><img alt="suryadevsingh Github Stats" src="https://github-readme-stats.vercel.app/api?username=suryadevsingh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="34%"/></a>
+  <a href="https://github.com/suryadevsingh/github-readme-stats"><img alt="suryadevsingh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadevsingh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="30%"/></a>
+ <a href="https://github.com/suryadevsingh/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suryadevsingh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadevsingh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="34%"/>
+    </a>
   <br/>
 
 ## Connect with me:
