@@ -42,7 +42,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://material-ui.com/"><img alt="materialui" src="https://img.shields.io/badge/%20-%2314354C.svg?logo=materialui&logoColor=white" width="40" height="40"></a>
+ <a href="https://material-ui.com/"><img alt="materialui" src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" width="40" height="40"></a>
   </a> <a href="https://semantic-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/semantic-ui.svg" alt="xd" width="40" height="40"/> </a>
 
 ## 🚀 Cloud:
