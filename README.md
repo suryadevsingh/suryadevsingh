@@ -5,11 +5,13 @@
 
 <!-- - 🌱 I’m currently learning **Reactjs** -->
 <!-- - 🔭 I’m currently working as **Software Engineer intern at Surya Software Systems Private Limited.** -->
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🤔 I’m looking for **Work** 
 - 💬 Ask me about **App Development**,**Web Development**,**Tech**,**What are you learning currently**.
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
 - 😄 NickName: **Chiki**
 - ⚡ Fun fact: **coffee**
+- 👥 We can connect to play some games of Chess ♟️
 
 ## 🚀 Languages:
 <p align="left"> 
