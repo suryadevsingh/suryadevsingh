@@ -5,8 +5,8 @@
 
 <!-- - 🌱 I’m currently learning **Reactjs** -->
 <!-- - 🔭 I’m currently working as **Software Engineer intern at Surya Software Systems Private Limited.** -->
-- 🤔 I’m looking for **full time role** 
-- 💬 Ask me about **Flutter**,**Reactjs**,**Tech**, **What are you learning currently**.
+- 🤔 I’m looking for **Work** 
+- 💬 Ask me about **App Development**,**Web Development**,**Tech**,**What are you learning currently**.
 - 📫 How to reach me: **suryadevsingh24032000@gmail.com**
 - 😄 NickName: **Chiki**
 - ⚡ Fun fact: **coffee**
@@ -19,7 +19,7 @@
 </p>
 
 
-## 🚀 App Development:
+## 📱 App Development:
 
 <p align="left"> 
     <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
@@ -33,7 +33,7 @@
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://w7.pngwing.com/pngs/951/722/png-transparent-computer-icons-xcode-ios-tool-s-apple-tool-png-transparent-images-tool-thumbnail.png" alt="xcode" width="40" height="40"/> </a>
 
 
-## 🚀 Web Development:
+## 🖥️ Web Development:
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
@@ -45,7 +45,7 @@
  <a href="https://material-ui.com/"><img alt="materialui" src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" width="40" height="40"></a>
   </a> <a href="https://semantic-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/semantic-ui.svg" alt="xd" width="40" height="40"/> </a>
 
-## 🚀 Cloud:
+## ☁ Cloud:
 
 <p align="left"> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
@@ -54,7 +54,7 @@
  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 
 
-## 🚀 UI/UX:
+## 👨‍🎨 UI/UX:
 
 <p align="left">
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
@@ -62,11 +62,11 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-## 🚀 Database:
+## 💼 Database:
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-## 🚀 Other:
+## 👨🏻‍💻 Other:
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
