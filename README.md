@@ -26,6 +26,11 @@
     <a href="https://developer.android.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+    <a href="https://developer.android.com/" target="_blank"> <img src="https://e1.pngegg.com/pngimages/736/783/png-clipart-macos-app-icons-android-studio.png" alt="Android Studio" width="40" height="40"/> </a>
+    <a href="https://developer.apple.com/ios/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png" alt="iOS" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" alt="swift" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/swiftui/swiftui.png" alt="swiftui" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://w7.pngwing.com/pngs/951/722/png-transparent-computer-icons-xcode-ios-tool-s-apple-tool-png-transparent-images-tool-thumbnail.png" alt="xcode" width="40" height="40"/> </a>
 
 
 ## 🚀 Web Development:
@@ -82,13 +87,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/suryadevsingh/github-readme-activity-graph"><img alt="suryadevsingh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suryadevsingh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 ## Connect with me:
